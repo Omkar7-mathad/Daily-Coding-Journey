@@ -1,4 +1,5 @@
 // to find the area of the square//
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -9,5 +10,6 @@ int main(){
     cout<<"area of the square is :"<<area<<endl;
     return 0;
 }
+
 
 
